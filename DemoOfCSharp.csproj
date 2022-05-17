@@ -7,7 +7,7 @@
     <ProjectGuid>{172439C3-399A-4C30-878C-C5FE014D2C89}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>DemoOfCSharp</RootNamespace>
-    <AssemblyName>DemoOfCSharp</AssemblyName>  
+    <AssemblyName>DemoOfCSharp</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -49,6 +49,7 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Users.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
