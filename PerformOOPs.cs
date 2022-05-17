@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DemoOfCSharp
+namespace CSharpRepo
 {
     public class PerformOOPs : IPerformOverRide
     {
