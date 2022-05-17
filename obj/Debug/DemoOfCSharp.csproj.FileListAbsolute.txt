@@ -1,0 +1,8 @@
+D:\aspdotnet\DemoOfCSharp\bin\Debug\DemoOfCSharp.exe.config
+D:\aspdotnet\DemoOfCSharp\bin\Debug\DemoOfCSharp.exe
+D:\aspdotnet\DemoOfCSharp\bin\Debug\DemoOfCSharp.pdb
+D:\aspdotnet\DemoOfCSharp\obj\Debug\DemoOfCSharp.csproj.AssemblyReference.cache
+D:\aspdotnet\DemoOfCSharp\obj\Debug\DemoOfCSharp.csproj.SuggestedBindingRedirects.cache
+D:\aspdotnet\DemoOfCSharp\obj\Debug\DemoOfCSharp.csproj.CoreCompileInputs.cache
+D:\aspdotnet\DemoOfCSharp\obj\Debug\DemoOfCSharp.exe
+D:\aspdotnet\DemoOfCSharp\obj\Debug\DemoOfCSharp.pdb
